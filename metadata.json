@@ -1,0 +1,8 @@
+{
+  "name": "PROGRAMKU SD",
+  "description": "Aplikasi Penyusun Program Kegiatan Sekolah Berbantuan AI untuk Kepala Sekolah dan Guru SD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
